@@ -136,3 +136,23 @@ Foreign Key:
 Users Table                                      Books Table
 issuedBook: 2 (Foreign Key here)                 issuedBook: 2 (Primary Key)
        
+
+DTO (Data Transfer Object)
+var obj1 : {
+       name
+       age
+       id
+       gender
+}
+       ||
+       ||
+       DTO
+       ||
+       ||
+
+var obj2 : {
+       name
+       age
+       id
+       gender
+}
